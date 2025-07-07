@@ -6,7 +6,7 @@ Dell drivers and downloads - How to easily download Dell drivers from the offici
 
 .. image:: get-start-button.png
    :alt: Homedepot.com/mycard
-   :target: https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2VvV9nb0NlIhKZdifyMhH3x4m7JGIoO1BZ82mRw9eBPCz6EfnR6REge
+   :target: https://pre.im/?GZGqGXnYcaJ3tmObV0GRSjGf4QURG4z94JNkdOulsNLcoKXyd2qJq0y1Ztot9zwUaIxzIbfNps
    :align: center
 
 
